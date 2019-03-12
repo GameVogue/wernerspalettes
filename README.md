@@ -5,8 +5,8 @@ Hex codes taken from https://www.c82.net/werner/
 
 Two versions: Basic and Full
 
-# Basic
+## Basic
 Ten colors, the "characteristic" shades of each color.
 
-# Full
+## Full
 All 110 colors.
