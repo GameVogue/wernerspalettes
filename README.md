@@ -11,4 +11,6 @@ Ten colors, the "characteristic" shades of each color.
 ![Alt Text](https://github.com/GameVogue/wernerspalettes/blob/master/werner%20basic.png "Basic Colors")
 
 ## Full
-All 110 colors. (WIP)
+All 110 colors.
+
+![Alt Text](https://github.com/GameVogue/wernerspalettes/blob/master/werner%20full.png "All Colors")
